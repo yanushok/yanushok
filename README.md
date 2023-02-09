@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there! 👋
+
+<!--
+#### Languages
+
+`ES6+`, `JavaScript`, `TypeScript`
+
+#### Frameworks & Libs
+
+`React`, `React Native`, `Node.js`, `Express.js`, `Next.js`, `Material-ui`, `Webpack`, `Redux toolkit`, `React Query`, ...
+-->
+
+---
+
+[![alt text](https://www.codewars.com/users/yanushok/badges/small "Codewars")](https://www.codewars.com/users/yanushok/)
 
 <!--
 **yanushok/yanushok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
