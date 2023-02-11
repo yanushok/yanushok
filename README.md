@@ -12,7 +12,7 @@
 
 ---
 
-[![alt text](https://www.codewars.com/users/yanushok/badges/small "Codewars")](https://www.codewars.com/users/yanushok/)
+[![alt text](https://www.codewars.com/users/yanushok/badges/small?theme=light "Codewars")](https://www.codewars.com/users/yanushok/)
 
 <!--
 **yanushok/yanushok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
