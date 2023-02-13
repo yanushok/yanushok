@@ -1,16 +1,7 @@
-### Hi there! 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/yan-yunitski-4a5216125/" target="_blank">Yan</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-#### Languages
-
-`ES6+`, `JavaScript`, `TypeScript`
-
-#### Frameworks & Libs
-
-`React`, `React Native`, `Node.js`, `Express.js`, `Next.js`, `Material-ui`, `Webpack`, `Redux toolkit`, `React Query`, ...
--->
-
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JS, Bikes,+Vinyl,+Beer" alt="Typing SVG" /></a>
 
 [![alt text](https://www.codewars.com/users/yanushok/badges/small?theme=light "Codewars")](https://www.codewars.com/users/yanushok/)
 
