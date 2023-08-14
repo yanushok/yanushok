@@ -27,6 +27,7 @@
 
 [![alt text](https://www.codewars.com/users/yanushok/badges/small?theme=light "Codewars")](https://www.codewars.com/users/yanushok/)
 
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-yunitski-4a5216125/)
 
 <!--
