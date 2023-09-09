@@ -26,6 +26,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 -->
+![Eslint](https://img.shields.io/badge/Eslint-white.svg?style=flat-square&logo=eslint&logoColor=%234830bc)
 ![React Native](https://img.shields.io/badge/React_Native-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-white.svg?style=flat-square&logo=testing-library&logoColor=c72626)
