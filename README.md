@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JS, Bikes,+Vinyl,+Beer" alt="Typing SVG" /></a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,materialui,styledcomponents,jest,nodejs,express,html,css,sass,svg,bootstrap,jquery,vscode,git,github,gitlab,gulp,webpack,babel,postman,codepen,figma,pr,ps,ae&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,materialui,styledcomponents,jest,nodejs,express,mongodb,html,css,sass,bootstrap,svg,jquery,vscode,git,github,gitlab,gulp,webpack,babel,postman,codepen,figma,pr,ps,ae&perline=10)](https://skillicons.dev)
 
 <!--
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
