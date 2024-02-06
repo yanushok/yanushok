@@ -28,12 +28,13 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593d88.svg?style=flat-square&logo=redux&logoColor=white)
 -->
-![React Native](https://img.shields.io/badge/React_Native-white.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+[![React Native](https://img.shields.io/badge/React_Native-white.svg?style=flat-square&logo=react&logoColor=61DAFB)](https://reactnative.dev#gh-light-mode-only)
+[![React Native](https://img.shields.io/badge/React_Native-rgba(0%2C0%2C0%2C0)?style=flat-square&logo=react&logoColor=61DAFB)](https://reactnative.dev#gh-dark-mode-only)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-white.svg?style=flat-square&logo=redux&logoColor=%237247b7)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-white.svg?style=flat-square&logo=testing-library&logoColor=c72626)
 ![Eslint](https://img.shields.io/badge/Eslint-white.svg?style=flat-square&logo=eslint&logoColor=%234830bc)
 [![Prettier](https://img.shields.io/badge/Prettier-white.svg?style=flat-square&logo=prettier&logoColor=%23cb5b5b "Prettier")](https://prettier.io#gh-light-mode-only)
-[![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=prettier&color=rgba(0%2C0%2C0%2C0)&logoColor=cb5b5b)](https://prettier.io#gh-dark-mode-only)
+[![Prettier](https://img.shields.io/badge/Prettier-rgba(0%2C0%2C0%2C0)?style=flat-square&logo=prettier&logoColor=cb5b5b)](https://prettier.io#gh-dark-mode-only)
 
 
 [![alt text](https://www.codewars.com/users/yanushok/badges/small?theme=light "Codewars")](https://www.codewars.com/users/yanushok/#gh-light-mode-only)
