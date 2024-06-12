@@ -4,8 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JS, Bikes,+Vinyl,+Beer" alt="Typing SVG" /></a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,styledcomponents,jest,nodejs,express,nestjs,mongodb,html,css,sass,bootstrap,svg,jquery,vscode,git,github,gitlab,gulp,webpack,babel,npm,yarn,postman,codepen,figma,pr,ps,ae,apple,windows&perline=10&theme=dark)](https://skillicons.dev#gh-light-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,styledcomponents,jest,nodejs,express,nestjs,mongodb,html,css,sass,bootstrap,svg,jquery,vscode,git,github,gitlab,gulp,webpack,babel,npm,yarn,postman,codepen,figma,pr,ps,ae,apple,windows&perline=10&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,styledcomponents,jest,nodejs,express,nestjs,mongodb,html,css,sass,bootstrap,svg,jquery,vscode,git,github,gitlab,gulp,webpack,vite,babel,npm,yarn,postman,codepen,figma,pr,ps,ae,apple,ubuntu,windows&perline=10&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,styledcomponents,jest,nodejs,express,nestjs,mongodb,html,css,sass,bootstrap,svg,jquery,vscode,git,github,gitlab,gulp,webpack,vite,babel,npm,yarn,postman,codepen,figma,pr,ps,ae,apple,ubuntu,windows&perline=10&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
 <!--
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
